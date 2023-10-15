@@ -24,3 +24,7 @@ let queryAddress = "rAddressHere"
 
 let node = 'wss://xrplcluster.com/'
 ```
+
+
+## Result
+Result will be printed to a csv in the directory called "balanceChanges.csv"
